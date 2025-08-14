@@ -9,10 +9,12 @@ Eventually I'd like to make this an Ansible template.
 ## Tools
 - brew
 - zsh (install with brew)
-- oh-my-zsh 
+- oh-my-zsh
+- power10k theme for oh-my-zsh: https://github.com/romkatv/powerlevel10k 
 - iTerm (iTerm2 specifically)
 - nvm
 - Docker desktop
 - npm & pnpm
-- python
+- pyenv for python version management
+- python versions installed with pyenv
 - poetry
