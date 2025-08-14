@@ -110,9 +110,11 @@ source $ZSH/oh-my-zsh.sh
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
 
+# Aliases for git
 alias ga="git add"
 alias gc="git commit"
 alias gs="git status"
+# Tailscale alias to execute the binary inside the app bundle
 alias tailscale="/Applications/Tailscale.app/Contents/MacOS/Tailscale"
 
 
